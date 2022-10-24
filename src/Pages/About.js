@@ -10,7 +10,7 @@ export default function About() {
       <S.DivF>
         <S.Figure>
           <S.Img src={Stefany} alt="Aqui uma foto minha" />
-          <p>sou Stefany tenho 33 anos </p>
+          <p>sou Stefany tenho 33 anos. </p>
         </S.Figure>
         <S.Figure>
           <S.Img src={Azul} alt="Aqui uma foto minha" />
